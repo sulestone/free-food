@@ -23,6 +23,6 @@ We had a few hurdles to overcome. We did have database problems to work out, get
 
 Here are the links:
 
-1. Free Food App: https://stormy-temple-9293.herokuapp.com/ 
+1. Free Food App: https://fre-food.herokuapp.com/
 2. Trello: https://trello.com/b/kdpPrg7r/free-food 
 3. Mock-up: https://gomockingbird.com/projects/6cnc9a2/4gXVnC
